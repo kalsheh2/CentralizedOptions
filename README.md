@@ -1,6 +1,8 @@
 # Centralized Options 
 
-We generalize ideas from [Alshehri et. al., 2017] and conduct numerical experiments on a stylized example and the IEEE 14 bus test system. 
+We generalize ideas from [Alshehri et. al., 2017] and conduct numerical experiments on a stylized example and the IEEE 14 bus test system.
+
+The .mat files are data files we call in the Jupyter notebook "Final_Central_Clearing_Tool.ipynb", where the model and some theoretical results are also explained. 
 
 References: 
 
